@@ -27,5 +27,5 @@ https://docs.google.com/document/d/1-xmQDpAki4At1Hz5jS2I8Rz5XwMGN-p3BmMorbLJfAs/
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/project4-clustering.git
+   git clone https://github.com/Gaut-raj/Credit-card-clustering-project.git
    cd project4-clustering
