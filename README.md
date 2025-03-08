@@ -49,7 +49,7 @@ How it helps modeling:
 
 These visualizations ensure that key features like balance are well understood before modeling. Identifying trends, outliers, and patterns supports better feature engineering and preprocessing, ultimately leading to more accurate and interpretable models.
 
-![][image1]  
+![unnamed](https://github.com/user-attachments/assets/b32235cd-e822-4bd7-aa02-c840655655d8)
 ![][image2]  
 ![][image3]  
 ![][image4]**Pre-Processing:** 
